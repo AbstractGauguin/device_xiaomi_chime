@@ -39,7 +39,7 @@ static const variant_info_t pomelo_info = {
 
     .brand = "Redmi",
     .device = "pomelo",
-    .marketname = "Redmi 9 Power",
+    .marketname = "Redmi Note 9 4G",
     .model = "M2010J19SL",
 
     .nfc = false,
