@@ -28,6 +28,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Flatten APEXs for performance
 OVERRIDE_TARGET_FLATTEN_APEX := true
+PRODUCT_PRODUCT_PROPERTIES += ro.apex.updatable=false
 
 # Product Shipping API
 PRODUCT_SHIPPING_API_LEVEL := 29
